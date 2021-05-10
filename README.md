@@ -11,6 +11,8 @@ Once you start treating age prediction as a regression problem, it becomes signi
 However, if you treat it as a classification problem, defining buckets/age brackets for the model, our age predictor model becomes easier to train, often yielding substantially higher accuracy than regression-based prediction alone.
 The process of visual age prediction is difficult, and I’d consider it subjective when either a computer or a person tries to guess someone’s age.
 In order to evaluate an age detector, you cannot rely on the person’s actual age. Instead, you need to measure the accuracy between the predicted age and the perceived age.
+Here is the link for the caffemodles used in the project-:
+https://drive.google.com/drive/folders/1Njq70wIi1fEVrBNWMItMpVPoq4b51_WD?usp=sharing
 
 
 
